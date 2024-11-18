@@ -1,0 +1,24 @@
+.services{
+    display: flex;
+    padding: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    gap: 20px;
+    margin: 80px;
+}
+
+.heading1{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+.img{
+    width: 100%;
+
+}
+
+.para{
+    font-size: 18px;
+}

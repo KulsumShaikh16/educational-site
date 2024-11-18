@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    padding: 20px;
+    
+}
+
+.footermenu{
+    margin-left: 20px;
+    justify-content: space-between;
+    display: flex;
+}
+.navItem{
+  justify-content: space-between;
+  display: flex;
+  margin: 10px;
+}
+.copyright{
+    margin-left:50%;
+    margin-top: 10px;
+    
+}

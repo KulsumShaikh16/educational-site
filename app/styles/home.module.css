@@ -1,0 +1,54 @@
+
+.heroimg{
+    background-image: url('https://image.slidesdocs.com/responsive-images/background/education-poster-school-training-cartoon-powerpoint-background_b9e7b97e21__960_540.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    
+
+}
+
+.heading1{
+    /* text-align: center;
+    justify-content: center; */
+    font-size: 80px;
+    letter-spacing: 10px;
+    padding-top:120px;
+    font-weight: 700;
+    color: black;
+    text-transform:uppercase;
+}
+
+.heading2{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: white;
+    
+    
+}
+
+.button{
+    align-items: center;
+    justify-content: center;
+    font-size: 14.592px;
+    text-transform:uppercase;
+    background-color:#4C6465;
+     display:flex;
+     width: 170px;
+     height: 50px;
+     margin-top: 40px;
+     color: azure;
+     letter-spacing: 2px;
+
+}
+
+.button:hover{
+    background-color:black;
+}
